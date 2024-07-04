@@ -15,8 +15,8 @@ export const ProjectList = [
     description:
       "An  App allows users to browse, search, and purchase products online with features like secure payment processing and order tracking. ",
     tech_stack: ["Reactjs", "Leaflet", "NodeJs", "MongoDB", "Redux"],
-    github_url: "https://github.com/salesp07/MyMind---Copy",
-    demo_url: "https://mymindweb.vercel.app/",
+    github_url: "",
+    demo_url: "https://ecommerce-frontend-delta-lyart.vercel.app/",
   },
 
 ];
