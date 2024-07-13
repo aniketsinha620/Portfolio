@@ -82,6 +82,13 @@ function Dropdown({ isOpen, toggle }) {
         >
           Contact
         </NavLink>
+        <NavLink
+          onClick={toggle}
+          className="menu-item"
+          to="education"
+        >
+          Experience
+        </NavLink>
       </NavMenu>
       <NavBtn onClick={toggle}>
         <a

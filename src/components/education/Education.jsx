@@ -63,10 +63,11 @@ const Education = () => {
                                 </div>
                             </ScrollAnimation> <ScrollAnimation animateIn="fadeInLeft" >
                                 <div class="box">
-                                    <h4>2018 - 2022</h4>
-                                    <h3>High School Degree</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                                    <h4>2016 - 2018</h4>
+                                    <h3>Matriculation (DAV PUBLIC SCHOOL)</h3>
+                                    <p>Completed secondary education with a focus on foundational subjects. Engaged in academic pursuits and extracurricular activities, fostering personal and intellectual growth.</p>
                                 </div>
+
                             </ScrollAnimation>
 
                         </div>

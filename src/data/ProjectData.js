@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/ykte-feature-graphic.png",
+    img: "/output-onlinepngtools.png",
     title: "Corporateयात",
     description:
       "Developed a vehicle booking application for corporate employees, featuring a RESTful API and a server-side rendered website for managing and tracking bookings.",
