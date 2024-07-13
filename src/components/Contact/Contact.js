@@ -8,7 +8,7 @@ import ScrollAnimation from "react-animate-on-scroll";
 function Contact() {
   const [showTooltip, setShowTooltip] = useState(false);
   const copyToClipboard = () => {
-    navigator.clipboard.writeText("pedro.sales.muniz@gmail.com");
+    navigator.clipboard.writeText("aniketofficialbitsindri@gmail.com");
     setShowTooltip(true);
     setTimeout(() => {
       setShowTooltip(false);
@@ -38,14 +38,14 @@ function Contact() {
                   disableTouchListener
                   placement="bottom"
                 >
-                  <IconButton  onClick={copyToClipboard} >
-                    <MdContentCopy size={25} style={{ cursor: 'pointer', color: "#151418" }}/>
+                  <IconButton onClick={copyToClipboard} >
+                    <MdContentCopy size={25} style={{ cursor: 'pointer', color: "#151418" }} />
                   </IconButton>
                 </Tooltip>
               </div>
               <a
                 className="btn PrimaryBtn btn-shadow"
-                href="mailto:pedro.sales.muniz@gmail.com"
+                href="aniketofficialbitsindri@gmail.com"
                 target="_blank"
                 rel="noopener noreferrer"
               >

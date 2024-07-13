@@ -20,7 +20,7 @@ export const NavLink = styled(ScrollLink)`
   height: 100%;
   cursor: pointer;
   &:hover {
-    color: #f6f6f6;
+    color: #4361ee;
   }
 `;
 export const Logo = styled('div')`

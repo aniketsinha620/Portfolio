@@ -15,6 +15,9 @@ const Header = ({ toggle }) => {
           <NavLink className="menu-item" to="about">
             About
           </NavLink>
+          <NavLink className="menu-item" to="education">
+            Experience
+          </NavLink>
           <NavLink className="menu-item" to="contact">
             Contact
           </NavLink>
