@@ -6,17 +6,33 @@ export const ProjectList = [
     description:
       "Developed a vehicle booking application for corporate employees, featuring a RESTful API and a server-side rendered website for managing and tracking bookings.",
     tech_stack: ["Reactjs", "Leaflet", "Node", "Mongodb", "Redux"],
-    github_url: "",
+    github_url: "https://github.com/aniketsinha620/Hackathon_BSL",
     demo_url: "",
   },
   {
-    img: "/mymind-responsive.png",
+    img: "/ecommerce.jpg",
     title: "Ecommerce App",
     description:
       "An  App allows users to browse, search, and purchase products online with features like secure payment processing and order tracking. ",
     tech_stack: ["Reactjs", "Leaflet", "NodeJs", "MongoDB", "Redux"],
-    github_url: "",
+    github_url: "https://github.com/aniketsinha620/ecommerceFrontend",
     demo_url: "https://ecommerce-frontend-delta-lyart.vercel.app/",
+  }, {
+    img: "/chatApp.jpg",
+    title: "Chat App",
+    description:
+      "An  App allows users chat with other user",
+    tech_stack: ["Reactjs", "Leaflet", "NodeJs", "MongoDB", "Redux", "Socket.io"],
+    github_url: "",
+    demo_url: "",
+  }, {
+    img: "/mymind-responsive.png",
+    title: "Travel webSite",
+    description:
+      "An  App allows users to browse the best travel plan present in the market and book the required plan for themself. ",
+    tech_stack: ["Reactjs", "Leaflet", "NodeJs", "MongoDB", "Redux"],
+    github_url: "https://github.com/aniketsinha620/travel",
+    demo_url: "",
   },
 
 ];
