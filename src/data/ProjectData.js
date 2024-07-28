@@ -6,8 +6,8 @@ export const ProjectList = [
     description:
       "Developed a vehicle booking application for corporate employees, featuring a RESTful API and a server-side rendered website for managing and tracking bookings.",
     tech_stack: ["Reactjs", "Leaflet", "Node", "Mongodb", "Redux"],
-    github_url: "https://github.com/aniketsinha620/Hackathon_BSL",
-    demo_url: "",
+    github_url: "https://github.com/aniketsinha620/corporateYatra_frontend",
+    demo_url: "https://corporate-yatra-frontend.vercel.app/",
   },
   {
     img: "/ecommerce.jpg",
@@ -23,7 +23,7 @@ export const ProjectList = [
     description:
       "An  App allows users chat with other user",
     tech_stack: ["Reactjs", "Leaflet", "NodeJs", "MongoDB", "Redux", "Socket.io"],
-    github_url: "",
+    github_url: "https://github.com/aniketsinha620/Baatcheet",
     demo_url: "",
   }, {
     img: "/mymind-responsive.png",
