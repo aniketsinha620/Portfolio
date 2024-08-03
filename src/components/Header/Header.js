@@ -1,5 +1,7 @@
 import React from "react";
 import { Nav, Logo, NavLink, Bars, NavMenu, NavBtn } from "./HeaderElements";
+import Resume from "./AniketResumeF.pdf.pdf"
+
 
 const Header = ({ toggle }) => {
   return (
@@ -25,7 +27,7 @@ const Header = ({ toggle }) => {
         <NavBtn>
           <a
             className="btn PrimaryBtn"
-            href="https://www.linkedin.com/in/aniket-sinha-b96982241/"
+            href={Resume}
             target="_blank"
             rel="noopener noreferrer"
           >
